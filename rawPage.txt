@@ -1,0 +1,2419 @@
+<!doctype html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+        <!--
+             _   _      _ _         ____            _
+            | | | | ___| | | ___   |  _ \ ___   ___| |_ _ __ _   _
+            | |_| |/ _ \ | |/ _ \  | |_) / _ \ / _ \ __| '__| | | |
+            |  _  |  __/ | | (_) | |  __/ (_) |  __/ |_| |  | |_| |
+            |_| |_|\___|_|_|\___/  |_|   \___/ \___|\__|_|   \__, |
+                                                             |___/
+        -->
+        <title>ga: Poems - Hello Poetry</title>
+
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="robots" content="index,follow,noarchive"/>
+        <meta name="google-site-verification" content="zXbk0iaFZmNsQseJshezm1k356ySBHoWhTFizpM0zFk" />
+        
+        <link rel="publisher" href="https://plus.google.com/u/0/112231592031263732098" />
+        <meta property="fb:app_id" content="183983364976719"/>
+        <link rel="canonical" href="" /><meta name="image" content="https://hellopoetry.s3.amazonaws.com/static/cache/f9/ea/f9ea191822486948c96e37561fdbdbdc.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@hellopoetry" /><meta name="twitter:account_id" content="54892430"/><meta name="twitter:title" content="ga: Poems"/><meta name="twitter:image" content="https://hellopoetry.s3.amazonaws.com/static/cache/f9/ea/f9ea191822486948c96e37561fdbdbdc.jpg" /><meta property="og:site_name" content="Hello Poetry"/><meta property="og:title" content="ga: Poems"/><meta property="og:description" content="Click to read ga&#39;s poems and comment..."/><meta property="og:image" content="https://hellopoetry.s3.amazonaws.com/static/cache/f9/ea/f9ea191822486948c96e37561fdbdbdc.jpg"/>
+        
+        
+            <link rel="stylesheet" media="all" type="text/css" href="https://hellopoetry.s3.amazonaws.com/css/hp.full.css?1" />
+        
+
+        <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        
+            <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+        
+
+        
+        
+        <!-- Hotjar Tracking Code for www.hellopoetry.com -->
+        
+
+        <link rel="shortcut icon" href="https://hellopoetry.s3.amazonaws.com/img/logo.png?1"/>
+        <link rel="apple-touch-icon" href="https://hellopoetry.s3.amazonaws.com/img/logo.png?1" />
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-15776931-1', 'auto', {
+                
+            });
+            // ga('send', 'pageview');
+        </script>
+        
+        
+    </head>
+    <body class="">
+        
+  <div id="menu" class="clearfix">
+  <a class="hepo" href="/">
+    Hello&#42; Poetry
+  </a>
+  <div id="mainmenu" class="mainmenu">
+    <a href="#" class="menu-block icon popover-mainmenu" data-placement="bottom-right"><i class="fa fa-fw fa-bars text-white"></i></a>
+    <div class="webui-popover-content">
+      
+      <a href="/poets/" class="row">Classics</a>
+      <a href="/words/" class="row">Words</a>
+      <a href="/blog/" class="row">Blog</a>
+      <a href="/faq/" class="row">F.A.Q.</a>
+      <a href="/about/" class="row">About</a>
+      <a href="/contact/" class="row">Contact</a>
+      <a href="/guidelines/" class="row">Guidelines</a>
+      <div class="nohover s subtle tops bottomss">
+        &copy;&nbsp;2018&nbsp;HePo<br/>
+        by&nbsp;<a href="https://hellopoetry.com/eliotyork/" class="subtle">Eliot</a>
+      </div>
+    </div>
+    <a href="#" class="menu-block icon popover-mobile-search tablet-shown" data-placement="bottom-right"><i class="fa fa-fw fa-search search-mobile text-white"></i></a>
+    <div class="webui-popover-content">
+      <div class="mobile-search-popover-content">
+      <form class="search" method="GET" action="/search/all/">
+        <input id="live_search_mobile" type="text" placeholder="" name="q">
+        <i class="fa fa-fw fa-search"></i>
+      </form>
+      </div>
+    </div>
+    <form class="search menu-block tablet-hidden" method="GET" action="/search/all/">
+      <input id="live_search" type="text" placeholder="" name="q">
+      <i class="fa fa-fw fa-search"></i>
+      <script type="text/javascript">
+        $(function () {
+          $('#live_search').on("focus", function(){
+            $(this).parent().addClass("active");
+          }).on("blur", function(){
+            if($(this).val().length === 0)
+              $(this).parent().removeClass("active");
+          });
+          $(".search .fa-search").on("click", function(){
+            if(!$(this).hasClass("search-mobile")){
+              $(this).parent().addClass("active");
+              $(this).parent().find("input").focus();
+            }
+          })
+
+        
+        })
+
+      </script>
+    </form>
+  </div>
+  <div id="usermenu" class="usermenu">
+    
+      <div class="tablet-hidden">
+        <a href="/register/" title="Request an invite" class="menu-block icon"><i class="fa fa-fw fa-user-plus"></i></a>
+        <a href="/log-in/" title="Log in to your account" class="menu-block icon"><i class="fa fa-fw fa-sign-in"></i></a>
+      </div>
+      <div class="tablet-shown">
+        <a href="/register/" class="menu-block icon"><i class="fa fa-fw fa-user-plus"></i></a>
+        <a href="/log-in/" class="menu-block icon"><i class="fa fa-fw fa-sign-in"></i></a>
+      </div>
+    
+  </div>
+  <script type="text/javascript">
+    $(function () {
+      $('#mainmenu .popover-mainmenu').webuiPopover({
+        style: 'mainmenu',
+        container: $("#menu"),
+        offsetTop: 1
+      })
+      $('#mainmenu .popover-mobile-search').webuiPopover({
+        style: 'search',
+        width: 220,
+        container: $("#menu"),
+        offsetLeft: 0,
+        offsetTop: 10,
+        onShow: function($e){
+          $("#live_search_mobile").focus();
+        },
+      })
+      $('#usermenu .popover-usermenu').webuiPopover({
+        style: 'usermenu',
+        container: $("#menu"),
+        offsetTop: 1
+      });
+      $('#usermenu .popover-notif').webuiPopover({
+        type: 'async',
+        cache: false,
+        container: $("#menu"),
+        offsetTop: 1,
+        async: {
+          success: function($e){
+            $("img[data-src]").each(function(){
+                var $t = $(this);
+                $t.attr("src", $t.attr("data-src"));
+                $t.removeAttr("data-src");
+            });
+          }
+        },
+        onShow: function($e){
+          $(".popover-notif").find(".unread").remove();
+        },
+        placement: 'bottom-left',
+        url:"/popover/notifications/"
+      })
+    })
+  </script>
+</div>
+  
+  <div id="header" class="clearfix">
+    
+    
+      <div class="header-title ellipsis">
+        <a href="/ga/" class="nocolor color-midnight">ga</a>
+      </div>
+      
+        <div class="header-subtitle subtle">
+          <a href='/ga/followers/' class='subtle'>8 followers</a> / <a href='/ga/words/' class='subtle'>2.0k words</a>
+        </div>
+      
+    
+    
+      <div class="header-actions">
+        
+          
+  
+    <button data-href="/act/follow/person/697183/" class="follow-profile-697183 btn color-midnight btn-small" action-submit="POST" action-authed="true">
+      
+        Follow
+      
+    </button>
+  
+
+        
+          
+    <a href="/messages/send/697183/?next=/ga/poems/" class="btn btn-small" rel="nofollow">Message</a>
+
+        
+          
+    <a href="/block/697183/" class="btn btn-small block-profile">Block</a>
+
+        
+          
+        
+      </div>
+    
+    
+      <div class="header-menu header-menu-has-stats">
+        
+          <a  href="/ga/" class="header-tab nocolor color-midnight">
+            Stream
+            
+              <div class="header-tab-stat s eq">
+                31
+              </div>
+            
+            
+          </a>
+          
+        
+          <a  href="/ga/poems/" class="header-tab nocolor color-midnight header-tab-selected">
+            Poems
+            
+              <div class="header-tab-stat s eq">
+                31
+              </div>
+            
+            
+          </a>
+          
+            <i class="fa fa-fw fa-angle-down popover-header hover-color-midnight"></i>
+            <div class="webui-popover-content">
+              
+              
+                <a  href="/ga/poems/?tab"><span class="nocolor color-midnight header-tab-selected disabled">Latest</span></a><br/>
+                  
+              
+                <a  href="/ga/poems/popular/"><span class="nocolor color-midnight">Popular</span></a><br/>
+                  
+              
+                <a  href="/ga/poems/title/"><span class="nocolor color-midnight">A - Z</span></a><br/>
+                  
+              
+            </div>
+          
+        
+          <a  href="/ga/favorites/" class="header-tab nocolor color-midnight">
+            Favorites
+            
+              <div class="header-tab-stat s eq">
+                6
+              </div>
+            
+            
+          </a>
+          
+            <i class="fa fa-fw fa-angle-down popover-header hover-color-midnight"></i>
+            <div class="webui-popover-content">
+              
+              
+                <a  href="/ga/favorites/?tab"><span class="nocolor color-midnight">Poems</span>&nbsp;<span class="header-tab-stat">(3)</span></a><br/>
+                  
+              
+                <a  href="/ga/following/"><span class="nocolor color-midnight">Members</span>&nbsp;<span class="header-tab-stat">(3)</span></a><br/>
+                  
+              
+            </div>
+          
+        
+      </div>
+    
+  </div>
+  
+  <div id="north" class="text-center" style="display:none">
+    <div class="ellipsis header-title">
+      <a href="/ga/" class="nocolor color-midnight">ga</a>
+    </div>
+  </div>
+  
+
+
+  
+  
+    
+
+    <div id="northeast" class="abs mobile-hidden">
+      
+      
+    </div>
+
+    <div id="northwest" class="abs mobile-hidden">
+      
+      
+    </div>
+  
+
+  
+
+
+  
+    <div id="southeast" class="tablet-fixed">
+      
+    </div>
+  
+
+  <div id="page" class="">
+<div id="poem2543917" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2543917/kugenggam-tanganmu/" data-text="Kugenggam Tanganmu by ga" seepoem="/act/poem/see/2543917/" readpoem="/act/poem/read/2543917/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jun 4">Jun 4</span>
+            
+            
+              <span class="s subtle hovershow" title="179 views"> &middot; 179</span>
+            
+          
+        </div>
+        <a href="/poem/2543917/kugenggam-tanganmu/" class="poem-title nocolor">Kugenggam Tanganmu</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jun 4">
+            Jun 4
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2543917/kugenggam-tanganmu/" class="nocolor">Kugenggam Tanganmu</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Pertama kalinya kugenggam tanganmu<br>Satu kembang api dipantik dari ulu hatiku<br>Seribu lainnya menyusul saat jemari kita saling bertaut<br>Menghiasi langit malam dengan pendar menggoda<br>Hitam pekat dibasuh percik api warna-warni<br>Kusaksikan dengan jelas saat kutatap wajahmu lekat-lekat<br><br>Kala itu tak satupun kata berhasil kita ucapkan<br>Namum dalam hati, tiap detik kulayangkan ribuan doa<br>dan segala mantra :<br><em>"Tuhan sang empunya dunia ini, hendaklah hentikan waktu sejenak untuk hambamu ini. Atau panjangkanlah malam sebelum mentari terbit nanti. Terima kasih Engkau turunkan bidadari, tepat disebelah hambamu ini".</em><br><br>Rambutmu bagaikan ombak musim panas<br>Bergulung-gulung indah harum manis bergairah<br>Namun dadaku layaknya laut dikala badai<br>Gemuruh layaknya seribu ksatria berkuda<br>Inginku berteriak sekencang-kencangnya<br>Gemanya terdengar sampai kampung Ayah-Ibuku<br><br>Jikalau nun jauh di belahan dunia sana<br>Seseorang berhasil menginjakkan kakinya di bulan<br>Inginku umumkan pada dunia<br>Malam itu akulah manusia pertama yang berhasil menggenggam bulan<br>Akulah pungguk yang melawan seluruh hukum gravitasi<br>Akulah pungguk yang tak lagi merindukan bulan<br><br>Kalau saja bisa, saat itu juga<br>Ingin kutuliskan berlembar-lembar puisi cinta<br>Ingin kupetik gitar dan bersenandung mesra<br>Karena bisikan lembutmu melantunkan hasrat hidup<br>Tatapan sayumu membiaskan mimpi-mimpiku<br>Senyuman indahmu melukiskan harapan-harapanku<br>Mimpi dan harapan seorang lelaki biasa<br>Menghabiskan hidup dengannya, tuan putriku ratuku, malaikatku, wanitaku yang istimewa<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        22/05/2018<br />Pagi mulai menjelang, biar kuantar kau pulang
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2543917/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Kugenggam Tanganmu">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2475021" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2475021/gadis-hujan/" data-text="Gadis Hujan by ga" seepoem="/act/poem/see/2475021/" readpoem="/act/poem/read/2475021/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Apr 24">Apr 24</span>
+            
+            
+              <span class="s subtle hovershow" title="126 views"> &middot; 126</span>
+            
+          
+        </div>
+        <a href="/poem/2475021/gadis-hujan/" class="poem-title nocolor">Gadis Hujan</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Apr 24">
+            Apr 24
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2475021/gadis-hujan/" class="nocolor">Gadis Hujan</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Langit sore memerah malu<br>Saat ia menatap ketat lembayung senja<br>Sejurus angin bertiup lembut<br>Menggoda tiap helai rambutnya<br><br>Untaian awan paham akan isi hatinya<br>Melepaskan dahaga penikmat rindu<br>Pelipur lara di kala sendu<br>Tumpah ruah menghujani bumi<br><br>Rintik hujan memancing senyum di bibirnya<br>Butiran awan menggantung malas<br>Di antara bulu matanya yang lentik<br>Turun menyusuri sudut matanya<br><br>Pipinya merona tak peduli dinginnya senja<br>Tangannya terulur menyambut sang malam<br>Gadis hujan yang ingin mencintai malam<br>Malam yang menciptakan badai dari hujan<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        24/04/2018<br />gadis hujan
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2475021/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Gadis Hujan">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2450821" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2450821/cinta-profesional/" data-text="Cinta Profesional by ga" seepoem="/act/poem/see/2450821/" readpoem="/act/poem/read/2450821/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Apr 9">Apr 9</span>
+            
+            
+              <span class="s subtle hovershow" title="70 views"> &middot; 70</span>
+            
+          
+        </div>
+        <a href="/poem/2450821/cinta-profesional/" class="poem-title nocolor">Cinta Profesional</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Apr 9">
+            Apr 9
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2450821/cinta-profesional/" class="nocolor">Cinta Profesional</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Umpankan hatimu padaku<br>kupastikan bersambut<br>tak sampai sewindu<br>Aku akan mencintaimu<br>secara profesional<br>sistematis<br>terukur<br>Aku akan mencintaimu<br>dengan seluruh tubuh<br>dan pikiranku<br>Tapi maaf, <br>bukan hatiku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        08/04/2018<br />you know why
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2450821/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Cinta Profesional">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2443261" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2443261/kutahu-saatnya-tiba/" data-text="Kutahu Saatnya Tiba by ga" seepoem="/act/poem/see/2443261/" readpoem="/act/poem/read/2443261/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Apr 4">Apr 4</span>
+            
+            
+              <span class="s subtle hovershow" title="196 views"> &middot; 196</span>
+            
+          
+        </div>
+        <a href="/poem/2443261/kutahu-saatnya-tiba/" class="poem-title nocolor">Kutahu Saatnya Tiba</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Apr 4">
+            Apr 4
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2443261/kutahu-saatnya-tiba/" class="nocolor">Kutahu Saatnya Tiba</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Bukannya ingin melupakan<br>Tapi langitmu biru<br>Milikku selalu hijau abu-abu<br>Diwarnakan kecewa yang tak kusesali<br><br>Lama sudah roda waktu kuputar<br>Namun kudapati kau hanya sebentar<br>Kau dan waktu adalah ilusiku<br>Namun kertas dan tintaku takkan menipu<br><br>Matamu sepekat langit malam<br>Berkilat menantang walau tanpa bintang<br>Menggali semua amarah dan kecewa<br>Saat kau bertukar tatap denganku<br><br>Ambil semua bintang-bintangku<br>Rebahkan diriku ke jalan yang gersang<br>Retak merana, kering oleh sang waktu<br>Mata itu tak lagi sama di hadapanku<br><br>Bintang tidak jatuh setiap hari<br>Namun kali ini ia jatuh di antara kita<br>Maaf telah kusembunyikan darimu<br>Cepat atau lambat kau akan mulai berlari<br>Tanpa bisa kukejar kembali<br><br>Luapkan semua amarah dan kecewamu<br>Padaku, pada dunia, pada yang tak kau pahami<br>Karena kau yang paling tahu<br>Batas waktuku untuk bersama dirimu<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        28/03/2018<br />The burn marks on my epiano won't go away 10 hours loop
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2443261/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Kutahu Saatnya Tiba">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2416233" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2416233/segenggam-rasa-malam/" data-text="Segenggam Rasa Malam by ga" seepoem="/act/poem/see/2416233/" readpoem="/act/poem/read/2416233/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Mar 19">Mar 19</span>
+            
+            
+              <span class="s subtle hovershow" title="430 views"> &middot; 430</span>
+            
+          
+        </div>
+        <a href="/poem/2416233/segenggam-rasa-malam/" class="poem-title nocolor">Segenggam Rasa Malam</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Mar 19">
+            Mar 19
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2416233/segenggam-rasa-malam/" class="nocolor">Segenggam Rasa Malam</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Carilah di antara benci dan cinta<br>Di sela-sela malam menuju pagi<br>Di belakang tirai megah pentas kehidupan<br>Akan kau dapati diriku<br><br>Kumpulkan semua amarah dan kecewa<br>Ambil jari kelingkingku, tautkan milikmu<br>Sembari ucapkan omong kosong dan ilusi<br>Akan kau dapati diriku<br><br>Berbaringlah di lantai, pejamkan matamu<br>Sibaklah kemelut seribu bayangan hitam<br>Terbanglah bersama awan lara bersayapkan derita<br>Akan kau dapati mimpiku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        15/03/2018
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2416233/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Segenggam Rasa Malam">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2413865" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2413865/sesungguhnya-dirimu/" data-text="Sesungguhnya, Dirimu by ga" seepoem="/act/poem/see/2413865/" readpoem="/act/poem/read/2413865/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Mar 17">Mar 17</span>
+            
+            
+              <span class="s subtle hovershow" title="78 views"> &middot; 78</span>
+            
+          
+        </div>
+        <a href="/poem/2413865/sesungguhnya-dirimu/" class="poem-title nocolor">Sesungguhnya, Dirimu</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Mar 17">
+            Mar 17
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2413865/sesungguhnya-dirimu/" class="nocolor">Sesungguhnya, Dirimu</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Aku kenal wajah itu<br>Pipinya merah merona<br>Saat kutanya mengapa<br>Biarlah dunia penuh warna<br><br>Aku suka senyum itu<br>Dari jauh penuh rahasia<br>Kudekati manis menggoda<br>Biarlah dunia tersenyum untuknya<br><br>Aku setia pada malam dan bintang-bintangnya<br>Izinkan aku berlama-lama menatap matanya<br>Kelap-kelip langit malam di kala siang<br>Biarlah kau dan malam<br>Menjadi milikku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        14/03/2018<br />Kuhabiskan waktu menumbuhkan lagu-lagu sihir untuknya, namun menarik dirimu
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2413865/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Sesungguhnya, Dirimu">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2346311" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2346311/maaf-dalam-kertas/" data-text="Maaf dalam Kertas by ga" seepoem="/act/poem/see/2346311/" readpoem="/act/poem/read/2346311/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Feb 7">Feb 7</span>
+            
+            
+              <span class="s subtle hovershow" title="213 views"> &middot; 213</span>
+            
+          
+        </div>
+        <a href="/poem/2346311/maaf-dalam-kertas/" class="poem-title nocolor">Maaf dalam Kertas</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Feb 7">
+            Feb 7
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2346311/maaf-dalam-kertas/" class="nocolor">Maaf dalam Kertas</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Maafkan aku suka<br>Lembut namun menggoda<br>Senyum manis kutatap lama<br>Ingin kumiliki walau sementara<br><br>Maafkan aku suka<br>Tak biasa dan tanpa sengaja<br>Indah walau sedikit memaksa<br>Beda tipis cinta dan keras kepala<br><br>Maafkan aku suka<br>Harumnya membuat terlena<br>Sudah kucoba namun tak kuasa<br>Wanginya mengajak berdansa<br><br>Maafkan aku suka<br>Sosoknya menjadi candu seketika<br>Selalu kucari entah ke mana<br>Selalu terbayang kapan saja<br><br>Maafkan aku suka<br>Di atas kertas tampak nyata<br>Kalian tak mengerti tak mengapa<br>Walaupun menyiksa<br>Dia tak perlu membalas suka,<br>Apalagi cinta<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        04/02/2018<br />mirai
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2346311/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Maaf dalam Kertas">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2342460" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2342460/melepas-bidadari/" data-text="Melepas Bidadari by ga" seepoem="/act/poem/see/2342460/" readpoem="/act/poem/read/2342460/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Feb 5">Feb 5</span>
+            
+            
+              <span class="s subtle hovershow" title="122 views"> &middot; 122</span>
+            
+          
+        </div>
+        <a href="/poem/2342460/melepas-bidadari/" class="poem-title nocolor">Melepas Bidadari</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Feb 5">
+            Feb 5
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2342460/melepas-bidadari/" class="nocolor">Melepas Bidadari</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Semalam aku melihat harimau<br>Harimau kalut<br>Gugup menyeberangi <br>lautan kembang api<br><br>Hari ini aku melihatmu<br>Membawa angan<br>Melangkahkan kakimu <br>ke dalam mimpiku<br><br>Semalam aku melihat bidadari<br>Tersenyum manis<br>Melambungkan angan <br>ke khayangan<br><br>Hari ini aku menimbang hati<br>Lebih berat<br>Karena ia <br>terbelah dua<br><br>Semalam aku merangkai kata<br>Puisi manis<br>Untuknya<br>gulali arum manis<br><br>Hari ini musim berganti<br>Angin bertiup<br>Menyapu namamu <br>yang tersangkut<br>dalam hatiku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        03/02/2018<br />mirai
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2342460/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Melepas Bidadari">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2333424" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2333424/teori-galaksi/" data-text="Teori Galaksi by ga" seepoem="/act/poem/see/2333424/" readpoem="/act/poem/read/2333424/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jan 31">Jan 31</span>
+            
+            
+              <span class="s subtle hovershow" title="179 views"> &middot; 179</span>
+            
+          
+        </div>
+        <a href="/poem/2333424/teori-galaksi/" class="poem-title nocolor">Teori Galaksi</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jan 31">
+            Jan 31
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2333424/teori-galaksi/" class="nocolor">Teori Galaksi</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Andaikan aku dirimu<br>Akan kulangkahkan kakiku keluar pintu<br>Melayang seringan bunga kertas<br>Kan kupenuhi hari-harimu dengan warna indahku<br><br>Andaikan aku dirimu<br>Akan kujelajahi setiap sudut kota<br>Kutelisik namamu di papan-papan pengumuman<br>Kucari wajahmu dalam setiap poster iklan<br>Kan kuceritakan padamu hargamu bagiku<br>Sambil mengantarmu pulang ke rumah<br><br>Andaikan aku dirimu<br>Aku akan berkawan dengan malam<br>Kutangisi bintang-bintang jauh yang berpendar lemah<br>Kemudian kupeluk rembulan dengan erat<br>Kurayu agar ia mau menyinari jendela kamarmu<br>Dan sinar lembut sewarna perak menerpa wajahmu<br>Indah menemani kau yang terlelap<br><br>Andaikan aku dirimu<br>Jikalau nanti kau tak melihat diriku<br>Aku sedang mencari pulau yang tak dikelilingi air<br>Biar kuisi dengan lautan kembang api<br>Agar kau menyaksikan letupan-letupan rindu penuh warna<br>Merasakan jarak indah yang menyiksa<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        29/01/2018<br />mirai
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2333424/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Teori Galaksi">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2299154" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2299154/surga-yang-berbeda/" data-text="Surga yang Berbeda by ga" seepoem="/act/poem/see/2299154/" readpoem="/act/poem/read/2299154/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jan 9">Jan 9</span>
+            
+            
+              <span class="s subtle hovershow" title="69 views"> &middot; 69</span>
+            
+          
+        </div>
+        <a href="/poem/2299154/surga-yang-berbeda/" class="poem-title nocolor">Surga yang Berbeda</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jan 9">
+            Jan 9
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2299154/surga-yang-berbeda/" class="nocolor">Surga yang Berbeda</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Jika kau adalah pendosa<br>Maka genggamlah tanganku<br>Jangan lagi kau hitung waktu<br>Nerakalah tempat kita menunggu<br><br>Namun kaulah malaikat<br>Andaikan kau genggam tanganku<br>Sekalipun dinanti surga<br>Sekalipun surga, <br>kau dan aku<br>Surga yang berbeda<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Melayanglah dengan anggun<br />Bawa aku pada surgamu
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2299154/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Surga yang Berbeda">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2290644" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2290644/esok-kau-benci/" data-text="Esok Kau Benci by ga" seepoem="/act/poem/see/2290644/" readpoem="/act/poem/read/2290644/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jan 4">Jan 4</span>
+            
+            
+              <span class="s subtle hovershow" title="108 views"> &middot; 108</span>
+            
+          
+        </div>
+        <a href="/poem/2290644/esok-kau-benci/" class="poem-title nocolor">Esok Kau Benci</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jan 4">
+            Jan 4
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2290644/esok-kau-benci/" class="nocolor">Esok Kau Benci</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Kau yang menyibak beliung demi pelangi<br>Mengulurkan tanganmu ke dalam gelap<br>Mengumpan senyum pada bara arang<br>Memberi warna pada langit abu-abu<br><br>Kau yang mengusik tirai gelap selimut jiwaku<br>Merentangkan tangan pada amuk badai<br>Meneteskan cahaya pada awan kabut <br>Mengurai jerat muak dan kecewa<br><br>Mungkin esok pagi <br>Kau akan membenciku<br>Selagi malam<br>Ingatlah aku dalam-dalam<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        27/12/2017
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2290644/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Esok Kau Benci">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2289438" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2289438/selamat-datang-selamat-tinggal/" data-text="Selamat Datang Selamat Tinggal by ga" seepoem="/act/poem/see/2289438/" readpoem="/act/poem/read/2289438/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Jan 3">Jan 3</span>
+            
+            
+              <span class="s subtle hovershow" title="299 views"> &middot; 299</span>
+            
+          
+        </div>
+        <a href="/poem/2289438/selamat-datang-selamat-tinggal/" class="poem-title nocolor">Selamat Datang Selamat Tinggal</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Jan 3">
+            Jan 3
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2289438/selamat-datang-selamat-tinggal/" class="nocolor">Selamat Datang Selamat Tinggal</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Terlanjur kutitipkan hatiku<br>Jiwaku hangat dalam genggamanmu<br>Tolong jagakan sebentar lagi<br>Aku ingin kembali<br><br>Telah kubagi separuh anganku<br>Kau susupi setiap ingatanku<br>Tanpa sadar kulembutkan hatiku<br>Aku ingin kembali<br><br>Maafkan aku yang pergi<br>Tanpa selamat tinggal<br>Maukah kau ucapkan selamat datang<br>Karena aku akan kembali<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        25/12/2017
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2289438/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Selamat Datang Selamat Tinggal">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2266014" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2266014/lebih-dari-hitam/" data-text="Lebih Dari Hitam by ga" seepoem="/act/poem/see/2266014/" readpoem="/act/poem/read/2266014/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 17, 2017">Dec 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="293 views"> &middot; 293</span>
+            
+          
+        </div>
+        <a href="/poem/2266014/lebih-dari-hitam/" class="poem-title nocolor">Lebih Dari Hitam</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 17, 2017">
+            Dec 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2266014/lebih-dari-hitam/" class="nocolor">Lebih Dari Hitam</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Bisakah kau lihat warna-warni hujan<br>Seperti kau melihat warna dalam suara<br>Bisikkan padaku warna langit<br>Karena langitku selalu hijau abu-abu<br><br>Bisakah kau melihat wajahku<br>Seperti aku bisa merasakan hela nafasmu<br>Bisikkan padaku warna dunia<br>Saat bibirmu menemukan tempatnya<br>Karena kau menyuruhku memejamkan mata<br><br>Bisakah kau melihat warna debu<br>Dari setiap omong kosong yang kau bakar<br>Bisikkan padaku warna hatimu<br>Karena milikku sewarna bara arang<br><br>Bisakah kau melihat warna malam<br>Tirai megah pentas hidupku<br>Kali ini biar kubisikkan padamu<br>Warna yang lebih gelap dari hitam<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2266014/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Lebih Dari Hitam">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2254296" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2254296/setelah-gelap/" data-text="Setelah Gelap by ga" seepoem="/act/poem/see/2254296/" readpoem="/act/poem/read/2254296/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 9, 2017">Dec 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="196 views"> &middot; 196</span>
+            
+          
+        </div>
+        <a href="/poem/2254296/setelah-gelap/" class="poem-title nocolor">Setelah Gelap</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 9, 2017">
+            Dec 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2254296/setelah-gelap/" class="nocolor">Setelah Gelap</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Tenang namun menghanyutkan<br>Nyaman dengan gelap namun menerangi<br>Dia yang senyap menyaksikan badai<br>Seperti malam-malam yang dicintainya<br><br>Mengumbar senyum namun terluka<br>Gersang tandus namun menjamu tamu<br>Dia yang kering namun melepaskan dahaga<br>Seperti khianat yang ditanggungnya<br><br>Lelah raga namun selalu terjaga<br>Menahan perih namun membalut luka<br>Dia yang tersengat namun menawar racun<br>Seperti kecewa yang ditintakannya<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2254296/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Setelah Gelap">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2247189" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2247189/suaramu-tinta-dalam-hatiku/" data-text="Suaramu Tinta Dalam Hatiku by ga" seepoem="/act/poem/see/2247189/" readpoem="/act/poem/read/2247189/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 5, 2017">Dec 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="516 views"> &middot; 516</span>
+            
+          
+        </div>
+        <a href="/poem/2247189/suaramu-tinta-dalam-hatiku/" class="poem-title nocolor">Suaramu Tinta Dalam Hatiku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 5, 2017">
+            Dec 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2247189/suaramu-tinta-dalam-hatiku/" class="nocolor">Suaramu Tinta Dalam Hatiku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Dalam diam kau mencari sosokku<br>Dekat namun tak tergapai<br>Aku ingin menyentuhmu<br>Namun kau hanyalah sebatas suara bagiku<br><br>Aku menatap wajahmu<br>Sorot tajam diasah sepi<br>Dalam kesendirianmu kau mencari sosokku<br>Namun aku hanyalah sebatas kenangan bagimu<br><br>Hujan yang memancing air matamu<br>Daun gugur yang menemani ratapanmu<br>Aku ingin kau melihatku<br>Kau ingin aku menyentuhmu<br>Aku ingin kau tersenyum untukku<br>Kau ingin aku tertawa untukmu<br><br>Waktu akan menghampiri<br>Tanpa bisa diingkari<br>Aku menemani dirimu<br>Walau hanya suara<br>Kau memberikan hangatmu<br>Sedih dan duka<br>Lalui, tidur dan lewati<br><br>Suatu hari nanti katakan padaku<br>Dengan suara lembutmu<br>Aku yang larut dalam air mata<br>Gemerlap berkaca-kaca  <br><br>Semburat jingga langit sore<br>Gelap langit malam sewarna abu<br>Menjadi tinta dalam hatiku<br>Mengukir dengan indah hari-hari itu<br>Saat kau bersama denganku<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2247189/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Suaramu Tinta Dalam Hatiku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2241136" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2241136/malam-ini-kutitipkan-hatiku/" data-text="Malam Ini Kutitipkan Hatiku by ga" seepoem="/act/poem/see/2241136/" readpoem="/act/poem/read/2241136/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Dec 1, 2017">Dec 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="263 views"> &middot; 263</span>
+            
+          
+        </div>
+        <a href="/poem/2241136/malam-ini-kutitipkan-hatiku/" class="poem-title nocolor">Malam Ini Kutitipkan Hatiku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Dec 1, 2017">
+            Dec 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2241136/malam-ini-kutitipkan-hatiku/" class="nocolor">Malam Ini Kutitipkan Hatiku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Marahlah<br>Luapkan amarahmu<br>Pada malam yang menipu<br><br>Caci maki<br>Pada rangkaian kata<br>Puisi yang menipu<br><br>Jangan berhenti<br>Karena malam ini kutitipkan hatiku<br>Cabik semaumu<br>Tangisi sepuasmu<br>Jangan berhenti<br>Besok pagi kuambil kembali<br><br>Biar kupahami <br>Setiap makna kecewamu<br>Biar kumengerti <br>Arti setiap saat wajahmu sembab<br><br>Sampai nanti kau mengerti<br>Akulah yang pergi dan selalu kembali<br>Karena malam ini kutitipkan hatiku<br>Hanya padamu<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Aku manusia yang pergi tanpa hatiku.<br />Dan selalu pulang demi hatiku, kepadamu.
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2241136/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Malam Ini Kutitipkan Hatiku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2231283" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2231283/sampaikan-nanti/" data-text="Sampaikan Nanti by ga" seepoem="/act/poem/see/2231283/" readpoem="/act/poem/read/2231283/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 25, 2017">Nov 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="189 views"> &middot; 189</span>
+            
+          
+        </div>
+        <a href="/poem/2231283/sampaikan-nanti/" class="poem-title nocolor">Sampaikan Nanti</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 25, 2017">
+            Nov 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2231283/sampaikan-nanti/" class="nocolor">Sampaikan Nanti</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Awan lara bersayapkan derita<br>Diselimuti kabut tersenyum manis<br>Tak perlu senyum itu kau balas<br>Sebentar lagi menuju terang<br>Kabut sirna melayang-layang<br><br><em>Apa kabar...</em><br><em>Tanyakan padaku</em><br><br>Berikan sedikit suaramu<br>Tak kuasa lagi mengharap cahaya<br>Namun aku ingin melangkah<br>Walau tanpa cahaya<br>Mungkin ada suara<br><br><em>Aku baik-baik saja...</em><br><em>Sampaikan padaku</em><br><br>Dari tepian jauh aku melihat<br>Jangan coba kau menggapai<br>Cukup doa yang mengantar<br>Tanpa perlu kembali lagi<br>
+    </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2231283/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Sampaikan Nanti">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2203064" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2203064/si-malang-kumbang/" data-text="Si Malang Kumbang by ga" seepoem="/act/poem/see/2203064/" readpoem="/act/poem/read/2203064/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Nov 8, 2017">Nov 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="101 views"> &middot; 101</span>
+            
+          
+        </div>
+        <a href="/poem/2203064/si-malang-kumbang/" class="poem-title nocolor">Si Malang Kumbang</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Nov 8, 2017">
+            Nov 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2203064/si-malang-kumbang/" class="nocolor">Si Malang Kumbang</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Bermekaran bunga mengiringi senyummu<br>Harum mewangi semanis madu<br>Rendahkan sedikit sekuntum kelopakmu<br>Tak ayal kumbang bergemuruh<br><br>Semanis madu kau mengundang <br>Aku terbuai layaknya kumbang<br>Indah gemulai tak kunjung lekang <br>Kau ratuku bukan sembarang<br><br>Tak kusadar burung berkeciap<br>Gagah benar paruh mengkilap<br>Hebat benar kepakkan sayap<br>Kumbang limbung terbangnya kalap<br><br>Bunga indah harum mewangi<br>Ternyata pandai bermain api<br>Tak disangka membakar janji<br>Batang indah bertumbuh duri<br><br>Kumbang sesak terbangnya lirih<br>Perihnya hati dusta sang terkasih<br>Berharap terang hujanpun masih<br>Berharap lekang sayangpun masih<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        04/10/2017
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2203064/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Si Malang Kumbang">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2140033" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2140033/pertama-kalinya/" data-text="Pertama Kalinya by ga" seepoem="/act/poem/see/2140033/" readpoem="/act/poem/read/2140033/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 29, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="546 views"> &middot; 546</span>
+            
+          
+        </div>
+        <a href="/poem/2140033/pertama-kalinya/" class="poem-title nocolor">Pertama Kalinya</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 29, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2140033/pertama-kalinya/" class="nocolor">Pertama Kalinya</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Kau duduk dalam diam<br>Segaris senyum kau tebar<br>Aku yang lemah menyerah kalah<br>Membakar omong kosong<br>Menciptakan bara apiku<br><br>Aku terpaku, pertama kalinya bagiku<br>Suara renyah bergairah<br>Menggelitik daun telinga<br>Mendarat indah di relung hati<br>Tak perduli yang kau katakan<br>Aku hanya ingin mendengarkan<br><br>Ingin rasanya kugenggam tanganmu<br>Menculikmu dengan gagah berani<br>Layaknya ksatria dan kau sang putri<br>Menyibak rambut ombakmu<br>Kusematkan bunga<br>Yang kita petik bersama<br><br><em>Namun...</em><br><br>Aku bukanlah ksatria<br>Dan kau sendirilah pemilik kastil itu<br>Tak ada bunga mekar yang bisa kupetik hari itu<br>Namun di lain hari kuharap kita bertemu lagi<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        29/09/17
+      </div>
+    
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2140033/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Pertama Kalinya">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2111735" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2111735/pernahkah-aku/" data-text="Pernahkah aku by ga" seepoem="/act/poem/see/2111735/" readpoem="/act/poem/read/2111735/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 9, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="594 views"> &middot; 594</span>
+            
+          
+        </div>
+        <a href="/poem/2111735/pernahkah-aku/" class="poem-title nocolor">Pernahkah aku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 9, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2111735/pernahkah-aku/" class="nocolor">Pernahkah aku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Pernahkah aku menjadi kembang apimu<br>Meletup-letup berirama<br>Mempesona penuh warna<br>Memantik rindu tak kunjung reda<br><br>Pernahkah aku menjadi senyummu<br>Segaris indah warna merah<br>Membentuk sudut surga<br>Di atas pipimu yang merona<br><br>Pernahkah aku menjadi bungamu<br>Harum mewangi walaupun sepi<br>Senyum melekat tiada henti<br>Bermekaran di relung hati<br><br><em>Atau</em><br><br>Apakah aku ini sedihmu<br>Terbendung oleh pelupuk<br>Membasahi mata cokelatmu<br>Tumpah menyusuri sudut matamu<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Pernahkah aku menjadi "aku" bagimu
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/pernahkah/" class="s subtle">#pernahkah</a>
+      
+        <a href="/tag/cinta/" class="s subtle">#cinta</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2111735/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Pernahkah aku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2107666" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2107666/pernah/" data-text="Pernah by ga" seepoem="/act/poem/see/2107666/" readpoem="/act/poem/read/2107666/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 8, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="922 views"> &middot; 922</span>
+            
+          
+        </div>
+        <a href="/poem/2107666/pernah/" class="poem-title nocolor">Pernah</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 8, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2107666/pernah/" class="nocolor">Pernah</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Aku pernah menjadi angin<br>Menyusuri tingkap-tingkap rumahmu<br>Membawa sejuknya pagi ke kamarmu<br>Semilir menyentuh kulitmu, membangunkanmu<br><br>Aku pernah menjadi awan<br>Melayang-layang mengikutimu<br>Menahan risau sampai menghitam<br>Mendung kala itu<br><br>Aku pernah menjadi lagu<br>Kala kau menatap melalui kaca jendela<br>Beradu dengan deru hujan<br>Sayup menemani lamunanmu<br><br>Aku pernah menjadi nada<br>Suara yang kau beri warna<br>Yang terus kau latih<br>Selalu kau nyanyikan<br><br>Aku pernah menjadi naskah<br>Cerita indah di balik luka<br>Dan kau adalah ratunya<br>Drama yang kau pentaskan<br><br>Aku pernah menjadi malam<br>Dingin namun memberimu kebebasan<br>Mengakhiri harimu yang lelah<br>Menemanimu terlelap<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Aku pernah menjadi cakrawala<br />Indah di ujung garis mata
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/pernah/" class="s subtle">#pernah</a>
+      
+        <a href="/tag/cinta/" class="s subtle">#cinta</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2107666/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Pernah">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2106133" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2106133/karnaval/" data-text="Karnaval by ga" seepoem="/act/poem/see/2106133/" readpoem="/act/poem/read/2106133/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 5, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="629 views"> &middot; 629</span>
+            
+          
+        </div>
+        <a href="/poem/2106133/karnaval/" class="poem-title nocolor">Karnaval</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 5, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2106133/karnaval/" class="nocolor">Karnaval</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Malam itu lampu indah kelap-kelip<br>Jemari kita saling bertautan<br>Kau yang paling indah malam itu<br>Menebar semburat warna-warni di mataku<br><br>Genggamanmu hangat padaku<br>Daya pikatmu menciptakan ilusi<br>Kau, semerbak tubuhmu, warna-warni lampu<br>Perpaduan yang sempurna! Aku terlena<br><br>Kau menuntunku ke karnaval ini<br>Tempat yang indah dengan sejuta rasa<br>Di mana seorang pencuri hatinya telah dicuri<br>Seorang yatim piatu mendapatkan saudaranya<br><br>Apakah ini nyata?<br>Karena kau menciptakan <br>bumi berbentuk apel<br>Yang hanya menumbuhkan apel <br>Untuk kita berdua<br><br>Sungguh luar biasa, inikah rasanya karnaval?<br>Mari kita nikmati, kau berbisik <br>Menyuruhku memejamkan mata<br>Kuikut saja, penasaran di mana aku terbangun nanti<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Tolong bangunkan aku
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/karnaval/" class="s subtle">#karnaval</a>
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/cinta/" class="s subtle">#cinta</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2106133/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Karnaval">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2103746" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2103746/everlast/" data-text="Everlast by ga" seepoem="/act/poem/see/2103746/" readpoem="/act/poem/read/2103746/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 3, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="113 views"> &middot; 113</span>
+            
+          
+        </div>
+        <a href="/poem/2103746/everlast/" class="poem-title nocolor">Everlast</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 3, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2103746/everlast/" class="nocolor">Everlast</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Watching you<em><br></em>With everlasting affection<em><br></em>Even after the time came<em><br></em>To say farewell<br>
+    </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/farewell/" class="s subtle">#farewell</a>
+      
+        <a href="/tag/everlast/" class="s subtle">#everlast</a>
+      
+        <a href="/tag/you/" class="s subtle">#you</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2103746/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Everlast">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2101084" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2101084/kau-manis-kala-itu/" data-text="Kau Manis Kala Itu by ga" seepoem="/act/poem/see/2101084/" readpoem="/act/poem/read/2101084/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Sep 1, 2017">Sep 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="1024 views"> &middot; 1.0k</span>
+            
+          
+        </div>
+        <a href="/poem/2101084/kau-manis-kala-itu/" class="poem-title nocolor">Kau Manis Kala Itu</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Sep 1, 2017">
+            Sep 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2101084/kau-manis-kala-itu/" class="nocolor">Kau Manis Kala Itu</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Senyum itu, dari mana datangnya<br>Tolong beritahu aku rahasianya<br>Agar nanti bisa kulakukan lagi<br>Biar mereka tahu, manisnya kau kala itu<br><br>Senyum itu, bisakah lebih lama?<br>Maafkan aku ini ingatannya lemah<br>Jadi tolong tersenyumlah lebih lama<br>Biar aku ingat, manisnya kau kala itu<br><br>Senyum itu, di hari yang sunyi tanpa kabar<br>Apakah senyum itu ada di kala hujan?<br>Aku ingin tahu, jadi bisikkan padaku<br>Di mana senyum itu saat malam menuju Minggu<br><br>Senyum itu, semanis kala itu<br>Tapi, siapa yang dituju senyum itu<br>Mungkinkah senyum semanis itu<br>Menyisakan pahit yang teramat pahit?<br><br>Tetaplah semanis itu, kalaupun pahit<br>cukup aku yang tahu<br>Tetaplah semanis itu, aku masih ingin<br>membagi malamku padamu<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Kali ini kau harus punya waktu..<br />Ceritakanlah rahasia senyum manismu itu.
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/kau/" class="s subtle">#kau</a>
+      
+        <a href="/tag/senyum/" class="s subtle">#senyum</a>
+      
+        <a href="/tag/manis/" class="s subtle">#manis</a>
+      
+        <a href="/tag/cinta/" class="s subtle">#cinta</a>
+      
+        <a href="/tag/pahit/" class="s subtle">#pahit</a>
+      
+        <a href="/tag/lovepoem/" class="s subtle">#lovepoem</a>
+      
+        <a href="/tag/maaf/" class="s subtle">#maaf</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2101084/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Kau Manis Kala Itu">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2099939" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2099939/night-my-love/" data-text="Night, My Love by ga" seepoem="/act/poem/see/2099939/" readpoem="/act/poem/read/2099939/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 31, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="287 views"> &middot; 287</span>
+            
+          
+        </div>
+        <a href="/poem/2099939/night-my-love/" class="poem-title nocolor">Night, My Love</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 31, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2099939/night-my-love/" class="nocolor">Night, My Love</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      You are the night<em><br></em>Which becomes darker<em><br></em>In every breath of mine<em><br><br></em>You are the morning<em><br></em>Which limits my night<em><br></em>Broke my desires to enjoy a longer night<br>
+    </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/night/" class="s subtle">#night</a>
+      
+        <a href="/tag/morning/" class="s subtle">#morning</a>
+      
+        <a href="/tag/lovepoem/" class="s subtle">#lovepoem</a>
+      
+        <a href="/tag/love/" class="s subtle">#love</a>
+      
+        <a href="/tag/you/" class="s subtle">#you</a>
+      
+        <a href="/tag/malam/" class="s subtle">#malam</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2099939/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Night, My Love">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2098022" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2098022/fireworks-always-reminds-me/" data-text="Fireworks Always Reminds Me by ga" seepoem="/act/poem/see/2098022/" readpoem="/act/poem/read/2098022/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 30, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="394 views"> &middot; 394</span>
+            
+          
+        </div>
+        <a href="/poem/2098022/fireworks-always-reminds-me/" class="poem-title nocolor">Fireworks Always Reminds Me</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 30, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2098022/fireworks-always-reminds-me/" class="nocolor">Fireworks Always Reminds Me</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Spinning around full of colors<br>Side by side with laughter and smile<br>Then it breaks into dazzling pieces <br>before fading away<br><br>My fireworks have been extinguished<br>But I still clasp it tight<br>In a faint try<br>Holding its last spark and light<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        will you spark again?
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/fireworks/" class="s subtle">#fireworks</a>
+      
+        <a href="/tag/you/" class="s subtle">#you</a>
+      
+        <a href="/tag/spark/" class="s subtle">#spark</a>
+      
+        <a href="/tag/break/" class="s subtle">#break</a>
+      
+        <a href="/tag/heartbreak/" class="s subtle">#heartbreak</a>
+      
+        <a href="/tag/lovepoem/" class="s subtle">#lovepoem</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2098022/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Fireworks Always Reminds Me">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2096923" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2096923/gambaran-hatiku/" data-text="Gambaran Hatiku by ga" seepoem="/act/poem/see/2096923/" readpoem="/act/poem/read/2096923/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 29, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="1084 views"> &middot; 1.1k</span>
+            
+          
+        </div>
+        <a href="/poem/2096923/gambaran-hatiku/" class="poem-title nocolor">Gambaran Hatiku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 29, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2096923/gambaran-hatiku/" class="nocolor">Gambaran Hatiku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Ini aku, gambaran hatiku<br>Kusertakan padamu, kusisipkan untukmu<em><br><br>Sejenak aku rebah, luka tanpa daya<br>Aku didera puluhan cabikan<br>Aku kalah dalam perang<br>Perang melawan hatiku<br><br>Gersang namun hujan<br>Tandus namun ranum<br>Itulah hatiku<br><br>Malam demi malam kulalui<br>Dengan mata terjaga<br>Hari demi hari kulewati<br>Ditemani gundah gulana<br><br></em>Aku yang hanya menunggu,<br>bagaikan menantang murka laut<em><br><br>Tiang layarku patah dihantam ombak<br>Kain layarku robek diterjang badai<br>Aku terombang-ambing antara suka dan duka<br><br>Ombak bergulung-gulung menanti di depanku<br>Aku menoleh ke belakang,<br>Menimang untuk merubah haluan<br><br></em>Kutak rela<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        Bukan sosokmu yang kunantikan, cukup kabar darimu. Berserilah hatiku
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/hati/" class="s subtle">#hati</a>
+      
+        <a href="/tag/ombak/" class="s subtle">#ombak</a>
+      
+        <a href="/tag/laut/" class="s subtle">#laut</a>
+      
+        <a href="/tag/rela/" class="s subtle">#rela</a>
+      
+        <a href="/tag/luka/" class="s subtle">#luka</a>
+      
+        <a href="/tag/murka/" class="s subtle">#murka</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2096923/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Gambaran Hatiku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2095652" class="poem poem-left preview" data-align="left" data-url="http://hellopoetry.com/poem/2095652/nyaman-dengan-malam/" data-text="Nyaman Dengan Malam by ga" seepoem="/act/poem/see/2095652/" readpoem="/act/poem/read/2095652/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 28, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="767 views"> &middot; 767</span>
+            
+          
+        </div>
+        <a href="/poem/2095652/nyaman-dengan-malam/" class="poem-title nocolor">Nyaman Dengan Malam</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 28, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2095652/nyaman-dengan-malam/" class="nocolor">Nyaman Dengan Malam</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Ketika sore mengayunkan cahaya terakhirnya<br>Kutahu saatnya akan tiba<br>Kusiapkan diriku menyambut malam,<br>Sang tirai gelap selimut jiwaku<br><br>Hitam membentang sunyi meresap<br>Cahaya-cahaya dipadamkan, disisakan yang redup<br>Kumainkan kenangan-kenangan lampau di atas panggung pekat<br>Kulantunkan kisah-kisah dalam alunan bisu<br><br>Anganku berkelana dalam diam<br>Khayalku liar bercabang-cabang<br>Dengan tenang malam menemaniku<br>Kesunyiannya memberanikan diriku<br><br>Ratusan kisah dan kenangan kupentaskan <br>dalam ribuan malam yang selalu kunikmati<br>Walau tanpa bintang, ditemani sang rembulan<br>Aku berkawan dengan malam<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        8/23/16
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/berkawan/" class="s subtle">#berkawan</a>
+      
+        <a href="/tag/malam/" class="s subtle">#malam</a>
+      
+        <a href="/tag/nyaman/" class="s subtle">#nyaman</a>
+      
+        <a href="/tag/jiwa/" class="s subtle">#jiwa</a>
+      
+        <a href="/tag/nights/" class="s subtle">#nights</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2095652/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Nyaman Dengan Malam">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2094951" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2094951/faux/" data-text="Faux by ga" seepoem="/act/poem/see/2094951/" readpoem="/act/poem/read/2094951/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 28, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="147 views"> &middot; 147</span>
+            
+          
+        </div>
+        <a href="/poem/2094951/faux/" class="poem-title nocolor">Faux</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 28, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2094951/faux/" class="nocolor">Faux</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Loving you is destructive<br><br>Yet I embrace the smell of agony with my bare hands and closed eyes.<br><br>I'm ready to be torn apart<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        And i regret that love
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/faux/" class="s subtle">#faux</a>
+      
+        <a href="/tag/fake/" class="s subtle">#fake</a>
+      
+        <a href="/tag/heartbreak/" class="s subtle">#heartbreak</a>
+      
+        <a href="/tag/destructive/" class="s subtle">#destructive</a>
+      
+        <a href="/tag/love/" class="s subtle">#love</a>
+      
+        <a href="/tag/you/" class="s subtle">#you</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2094951/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Faux">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2094260" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2094260/you/" data-text="You by ga" seepoem="/act/poem/see/2094260/" readpoem="/act/poem/read/2094260/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 27, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="946 views"> &middot; 946</span>
+            
+          
+        </div>
+        <a href="/poem/2094260/you/" class="poem-title nocolor">You</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 27, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2094260/you/" class="nocolor">You</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      I love the night, as much as I love you<br>I love the flower, as much as I love your smell<br>I love the song, as much as I love your voice<br>I love to make laugh, as much as I love your smile<br><br>I love brown, as much as I love your eyes<br>I love the wild, as much as I love your body<br>I love poems, as much as I love your words<br>I love the waves, as much as I love your hair<br><br>I love sunset, as much as I love your touch<br>I love home, as much as I love your existence<br>I love precious things, as much as I love you<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        and i love your flaws too...
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/lovepoem/" class="s subtle">#lovepoem</a>
+      
+        <a href="/tag/love/" class="s subtle">#love</a>
+      
+        <a href="/tag/you/" class="s subtle">#you</a>
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/browneyes/" class="s subtle">#browneyes</a>
+      
+        <a href="/tag/kamu/" class="s subtle">#kamu</a>
+      
+        <a href="/tag/night/" class="s subtle">#night</a>
+      
+        <a href="/tag/home/" class="s subtle">#home</a>
+      
+        <a href="/tag/smile/" class="s subtle">#smile</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2094260/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem You">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+<div id="poem2093702" class="poem poem-center preview" data-align="center" data-url="http://hellopoetry.com/poem/2093702/kau-rasa-sakit-sekaligus-obatku/" data-text="Kau, Rasa Sakit Sekaligus Obatku by ga" seepoem="/act/poem/see/2093702/" readpoem="/act/poem/read/2093702/">
+  
+    <div class="poem-preview poem-part hoverable">
+      <div class="preview-title">
+        
+        <div class="subtle">
+          
+            
+              <span title="Added Aug 27, 2017">Aug 2017</span>
+            
+            
+              <span class="s subtle hovershow" title="1396 views"> &middot; 1.4k</span>
+            
+          
+        </div>
+        <a href="/poem/2093702/kau-rasa-sakit-sekaligus-obatku/" class="poem-title nocolor">Kau, Rasa Sakit Sekaligus Obatku</a>
+      </div>
+      <div class="preview-stats s subtle"></div>
+      <div class="preview-actions"></div>
+    </div>
+  
+  <div class="poem-view inner">
+    <div class="poem-header poem-part">
+      
+      
+      
+        <a href="/ga/" class="nocolor poem-poet-name popover-profile" data-url="/popover/profile/697183/">ga</a>
+      
+      
+        
+          <span class="poem-added s" title="Poem added Aug 27, 2017">
+            Aug 2017
+          </span>
+        
+      
+    </div>
+
+    <div class="poem-part poem-title bottomss">
+      <a href="/poem/2093702/kau-rasa-sakit-sekaligus-obatku/" class="nocolor">Kau, Rasa Sakit Sekaligus Obatku</a>
+    </div>
+
+    <div class="poem-part continue-reading poem-body wordwrap">
+      Temukan aku, cari aku<br>Hancurkan aku, remukkan aku<br>Caci diriku hinakan jiwaku<br>Buat aku berlutut menangis di hadapanmu<br>Hempaskan tubuhku rebahkan kepalaku<br>Lakukanlah, hancurkan diriku.<br><br>Tapi ketika saatnya tiba<br>Ulurkan tanganmu, raihlah kepalaku<br>Berjongkoklah, sentuh pipiku<br>Elus rambutku hapus air mataku<br>Tundukkan kepalamu, dekatkan ke telingaku<br>Bisikkan padaku sebuah kata dari dalam hatimu<br>Hembuskan padaku sebuah harapan<br>Lantunkan lagu itu, lagu kehidupan<br><br>Tatap mataku, ajak aku berdiri<br>Pandang wajahku, yakinkan aku<br>Genggamlah tanganku sementara kau mulai melangkah<br>Peluk erat jariku dengan jemari lentikmu<br>Berikan hangat tubuhmu, genggam erat tanganku<br><br>Ayunkan kakimu, berlarilah<br>Bawa aku bersamamu, beri aku jalan<br>Menolehlah sesekali ke belakang<br>Aku akan tetap berada di sana<br>Memandangi jemarimu memeluk jemariku<br>
+    </div>
+    
+      <div class="poem-part topss poem-append s wordwrap">
+        02/04/16
+      </div>
+    
+    
+      <div class="poem-part topss poem-tags s wordwrap">
+      
+        <a href="/tag/puisi/" class="s subtle">#puisi</a>
+      
+        <a href="/tag/indonesia/" class="s subtle">#indonesia</a>
+      
+        <a href="/tag/bahasa/" class="s subtle">#bahasa</a>
+      
+        <a href="/tag/cinta/" class="s subtle">#cinta</a>
+      
+        <a href="/tag/lovepoem/" class="s subtle">#lovepoem</a>
+      
+        <a href="/tag/kau/" class="s subtle">#kau</a>
+      
+        <a href="/tag/kamu/" class="s subtle">#kamu</a>
+      
+      </div>
+    
+    
+      <div class="poem-part continue-reading before-reading subtle">
+        <a href="/act/poem/read/2093702/" class="readpoem color-midnight" rel="nofollow" title="Continue reading ga's poem Kau, Rasa Sakit Sekaligus Obatku">Continue reading...</a>
+      </div>
+    
+  </div>  
+
+  <div id="after" class="after-reading"></div>
+</div>
+
+
+
+  
+    <h3 class="the-end" title="Nothing more to see here...">&mdash; The End &mdash;</h3>
+  
+
+</div>
+
+
+        <script type="text/javascript">var DEBUG=false;var STATIC_DOMAIN="https://hellopoetry.s3.amazonaws.com";var LOGGED_IN=false;var STRIPE_PUB_KEY="pk_live_h83jQaBk4MutozfGBBu6i35J";var MY_COLOR='red';
+        </script>
+        
+            <script src="https://hellopoetry.s3.amazonaws.com/js/hp.min.js?1" type="text/javascript"></script>
+        
+
+        
+  <div id="notinview">&nbsp;</div>
+  <div id="invisblock"></div>
+  <div id="backtotop" class="subtle" title="Back to top"><i class="fa fa-fw fa-angle-up"></i></div>
+  
+  <div id="req_messages"></div>
+  
+    <script type="text/javascript">
+      $(function(){
+        
+      });
+    </script>
+  
+
+
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+                try{
+                  ga('send', 'pageview');
+                }catch(e) { }
+            });
+        </script>
+        
+        
+    </body>
+</html>
