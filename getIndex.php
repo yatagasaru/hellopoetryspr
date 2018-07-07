@@ -1,6 +1,7 @@
 <?php
     //gladysbot google image parser template//
-    $url =  "https://hellopoetry.com/ga/poems/";
+    //$url =  "https://hellopoetry.com/ga/poems/";
+    $url = "https://hellopoetry.com/ga/";
     define('FAKE_USER_AGENT', "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36");
     
     function getPage($url){
