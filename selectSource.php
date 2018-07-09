@@ -3,12 +3,12 @@
     $url1 =  "https://hellopoetry.com/ga/poems/";
     $url2 = "https://hellopoetry.com/ga/";
 
-    $countPoems = getPage($url1);
-    preg_match('|<div class="header-tab-stat s eq">[\r\n][ \t](.*?)[\r\n]|', $countPoems, $count);
+    $pagePoems = getPage($url1);
+    preg_match('|<div class="header-tab-stat s eq">[\r\n][ \t](.*?)[\r\n]|', $pagePoems, $count);
     $countPoems = (int) $count[1];
 
-    $countStream = getPage($url2);
-    preg_match('|<div class="header-tab-stat s eq">[\r\n][ \t](.*?)[\r\n]|', $countStream, $count);
+    $pageStream = getPage($url2);
+    preg_match('|<div class="header-tab-stat s eq">[\r\n][ \t](.*?)[\r\n]|', $pageStream, $count);
     $countStream = (int) $count[1];
 
     function selectSource(){

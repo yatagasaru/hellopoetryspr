@@ -10,7 +10,7 @@
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_URL, $url);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-        curl_setopt($ch, CURLOPT_USERAGENT, FAKE_USER_AGENT);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'FAKE_USER_AGENT');
         $data = curl_exec($ch);
         curl_close($ch);
         header('Content-Type: text/plain');
@@ -23,8 +23,8 @@
     $url = $source["url"];
 
     function fromPoems($url){
-        global $poemurl, $poemurlTemp;
-        $rawpage = getPage($url);
+        global $poemurl, $poemurlTemp, $pagePoems;
+        $rawpage = $pagePoems;//getPage($url);
         preg_match_all('|<a href="/(.*?)" class="poem-title nocolor">|', $rawpage, $poemurlTemp);
 
         foreach($poemurlTemp[1] as $val){
@@ -33,8 +33,8 @@
     }
     
     function fromStream($url){
-        global $poemurl, $poemurlTemp;
-        $rawpage = getPage($url);
+        global $poemurl, $poemurlTemp, $pageStream;
+        $rawpage = $pageStream;//getPage($url);
         preg_match('|<a href="/(.*?)" class="nocolor">|', $rawpage, $poemurlTemp);
     
         foreach((array)$poemurlTemp[1] as $val){
@@ -51,6 +51,8 @@
     }
 
     $json =  $poemurl;
+    $json['source']['name'] = $source['count'];
+    $json['source']['url'] = $url;
     $json['count'] = sizeof($poemurl);
     $json['status'] = "OK";
     header('Content-Type: application/json');
