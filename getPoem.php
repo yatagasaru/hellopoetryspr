@@ -27,6 +27,7 @@
     $json['note'] = str_replace("<br />", "<br>", ltrim($match3[1][0]));
     $json['count'] = sizeof($match[1]);
     $json['status'] = "OK";
+    header("Access-Control-Allow-Origin: *");
     header('Content-Type: application/json');
     echo json_encode($json, JSON_PRETTY_PRINT);
 
