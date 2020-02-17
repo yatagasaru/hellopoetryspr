@@ -1,5 +1,5 @@
 <?php
-//gladysbot google image parser template//
+    require_once "getPage.php";
     $url1 =  "https://hellopoetry.com/ga/poems/";
     $url2 = "https://hellopoetry.com/ga/";
 
@@ -24,5 +24,4 @@
             return $ret;
         }
     }
-
 ?>
